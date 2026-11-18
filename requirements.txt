@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic-settings
+pymysql
+qdrant-client
+langchain
+langchain-text-splitters
+openai
+pypdf
+cryptography

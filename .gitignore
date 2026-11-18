@@ -1,0 +1,3 @@
+.venv/	Không	Môi trường ảo
+.env	Không	API keys, mật khẩu
+.idea/
